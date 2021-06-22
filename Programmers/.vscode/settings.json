@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "iosfwd": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    }
+}
